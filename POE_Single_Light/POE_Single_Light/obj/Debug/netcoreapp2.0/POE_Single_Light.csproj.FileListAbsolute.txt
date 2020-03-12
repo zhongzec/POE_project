@@ -1,0 +1,11 @@
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/obj/Debug/netcoreapp2.0/POE_Single_Light.csprojAssemblyReference.cache
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/obj/Debug/netcoreapp2.0/POE_Single_Light.csproj.CoreCompileInputs.cache
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/obj/Debug/netcoreapp2.0/POE_Single_Light.AssemblyInfoInputs.cache
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/obj/Debug/netcoreapp2.0/POE_Single_Light.AssemblyInfo.cs
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/bin/Debug/netcoreapp2.0/POE_Single_Light.deps.json
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/bin/Debug/netcoreapp2.0/POE_Single_Light.runtimeconfig.json
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/bin/Debug/netcoreapp2.0/POE_Single_Light.runtimeconfig.dev.json
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/bin/Debug/netcoreapp2.0/POE_Single_Light.dll
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/bin/Debug/netcoreapp2.0/POE_Single_Light.pdb
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/obj/Debug/netcoreapp2.0/POE_Single_Light.dll
+/Users/huangzhen/Desktop/POE_Single_Light/POE_Single_Light/obj/Debug/netcoreapp2.0/POE_Single_Light.pdb
